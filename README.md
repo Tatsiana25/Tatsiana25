@@ -3,15 +3,15 @@
 #### Kotlin/Java QA Engineer
 
 Hi there! I'm Tanya Sudarhina - a QA Engineer with 7 years of experience, specializing in both automated and manual testing.
-I write, execute, and maintain automated tests in Kotlin and Java.
+I write, execute, and maintain automated tests in Java and Kotlin.
 My background in manual testing gives me a deeper understanding of processes, allowing me to automate more effectively.
 I write automated tests for UI and API in web applications and am also interested in mobile testing.
 
 ## 🛠 Skills
 
 ### Programming Languages:
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-E74C3C?style=for-the-badge&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ### Frameworks and Libraries:
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
 ![Selenide](https://img.shields.io/badge/Selenide-3FA038?style=for-the-badge&logo=selenide&logoColor=white)
