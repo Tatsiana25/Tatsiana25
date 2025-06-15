@@ -2,7 +2,7 @@
 
 #### Java/Kotlin QA Engineer
 
-Hi there! I'm Tanya Sudarhina - a QA Engineer with 7 years of experience, specializing in both automated and manual testing.
+Hi there! I'm Tatsiana Sudarhina - a QA Engineer with 7 years of experience, specializing in both automated and manual testing.
 I write, execute, and maintain automated tests in Java and Kotlin.
 My background in manual testing gives me a deeper understanding of processes, allowing me to automate more effectively.
 I write automated tests for UI and API in web applications and am also interested in mobile testing.
