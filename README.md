@@ -35,6 +35,6 @@ I write automated tests for UI and API in web applications and am also intereste
 | Belarusian         | Native                  |
 ## 📊 GitHub Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatsiana25)
+
 
 
